@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace WerkenMetData.Modellen
 {
-    internal class KlantenCategorie
+    public class KlantenCategorie
     {
         public int Id { get; set; }
+        public string Naam { get; set; }
     }
 }
