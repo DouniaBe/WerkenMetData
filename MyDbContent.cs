@@ -15,7 +15,7 @@ namespace WerkenMetData
         {
            if(Klanten.Any())
            {
-                Klant klant = new Klant() { Geboortedatum = DateTime.Now, Naam = "dounia", Voornaam = "-"};
+                Klant klant = new Klant() { Geboortedatum = DateTime.Now, Naam = "douniaaaaa", Voornaam = "-"};
                Klanten.Add(klant);
                SaveChanges();
         }
