@@ -16,7 +16,7 @@ namespace WerkenMetData
         public void InitiateDatabase()
 
         {
-            KlantenCategorie kc = new KlantenCategorie { Naam = "Dounia1" };
+            KlantenCategorie kc = new KlantenCategorie { Naam = "Douniaaa" };
             if (!KlantenCategorieen.Any())
             {
                 KlantenCategorieen.Add(kc);
